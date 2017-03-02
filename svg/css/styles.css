@@ -1,0 +1,18 @@
+/* CSS for Dietary Guidelines */
+
+body {
+  background-color: white;
+}
+
+p {
+  margin: 0;
+  font-family:Mousse;
+  font-size: 3.7em;
+  color: #425227;
+}
+
+svg.food-groups {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+}
